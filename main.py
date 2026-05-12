@@ -19,7 +19,7 @@ logging.basicConfig(
 
 # ==================== НАСТРОЙКИ БОТА ====================
 # Вставьте ваш токен от @BotFather
-BOT_TOKEN = "8772403466:AAGoFyboBUcPpc7ObZmr-N4Re_xdHYClu7g"
+BOT_TOKEN = "8772403466:AAHlYc3HgGSirDmpFA4Mbx15cFeyMPE_Kqw"
 ADMIN_CHAT_ID = "-5121236231"  # ID чата для жалоб (опционально)
 
 # Лимиты
